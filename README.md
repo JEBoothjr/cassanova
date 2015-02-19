@@ -476,3 +476,7 @@ cassanova is distributed under the [MIT license](http://opensource.org/licenses/
 Feel free to join in and support the project!
 
 Check the [Issue tracker](https://github.com/Incroud/cassanova/issues)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JEBoothjr/cassanova/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
